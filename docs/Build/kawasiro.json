@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "kawasiro.data.unityweb",
+"asmCodeUrl": "kawasiro.asm.code.unityweb",
+"asmMemoryUrl": "kawasiro.asm.memory.unityweb",
+"asmFrameworkUrl": "kawasiro.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
